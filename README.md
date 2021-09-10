@@ -1,5 +1,5 @@
-# Surfs_up
-## Overview
+# Surfs up
+## Project Overview
 Client wants to open up a business in Oahu. This analysis looks into climate data of the location to figure out information about temperature trends and if the business will be sustainable all year-round. 
 ## Results
 - Weather differences between June and December, the average temperature drops by about 3~4 degrees. 
